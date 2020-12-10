@@ -1,4 +1,4 @@
-# Yearn Vaults Subgraph
+# Dfi Money Vaults Subgraph
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build](https://github.com/iearn-finance/yearn-subgraph/workflows/Build/badge.svg)
