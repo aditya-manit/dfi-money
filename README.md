@@ -4,7 +4,7 @@
 ![Build](https://github.com/iearn-finance/yearn-subgraph/workflows/Build/badge.svg)
 ![Lint](https://github.com/iearn-finance/yearn-subgraph/workflows/Lint/badge.svg)
 
-Subgraph to track yearn vaults metrics on Mainnet.
+Subgraph to track dfi-money vaults metrics on Mainnet.
 
 ## Setup
 
